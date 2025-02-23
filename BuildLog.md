@@ -1,3 +1,3 @@
-- build `v1.3-rc6`
+- build `1.3.12`
 - build `v1.3.11-beta2` 
 - build `v1.3.13-beta1`
